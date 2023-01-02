@@ -1,0 +1,33 @@
+.main{
+    background: #00ff9d6e;
+    text-align: center;
+    height: 211px;
+    width: 25%;
+    margin-left: 27pc;
+    margin-top: 2pc;
+    border-radius: 17px;
+}
+
+#search{
+    margin-top: 26px;
+    border: 0;
+    width: 216px;
+    height: 30px;
+    border-radius: 17px;
+    outline: none;
+}
+#title{
+    margin-top: 21px;
+    font-size: 37px;
+    margin-bottom: -8px;
+    font-family: monospace;
+    color: #ff9191c7;
+}
+
+
+#temp{
+    margin-top: 21px;
+    font-size: 35px;
+    font-family: cursive;
+    color: #bd51ccc7;
+}
